@@ -3,6 +3,8 @@
  * PROJECT : Java Practice
  *************************************************************************/
 
+import Exploring_Java.HelloWorld;
+
 public class Main {
 	public static void main(String[] args) {
 		
@@ -16,7 +18,9 @@ public class Main {
 
 		System.out.println("\n\n>\t Hello World Testing Program");
 		System.out.println(">------------------------------------------------------------------");
-		System.out.println("> Hello from Java!");
+		Exploring_Java.HelloWorld.helloWorld();
+		HelloWorld.helloWorld();
+//		helloWorld(); // will error
 	}
 
 }

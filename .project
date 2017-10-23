@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>README.md</name>
+			<type>1</type>
+			<location>/home/lpxpscww/Progamming Workspace/Java_Workspace/Java_Mini_Programs/README.md</location>
+		</link>
+	</linkedResources>
 </projectDescription>
